@@ -9,6 +9,6 @@ code.py: this file contains the Python script demonstrating the compression logi
 
 ## How the Code Works
 The script utilizes a dictionary acting as a compression key. It takes a list of standard text data (such as academic majors) and uses a list comprehension to replace the text with corresponding integers. 
-Output:
+## Output:
 1. The original list of uncompressed text strings.
 2. The final compressed list of integers.
