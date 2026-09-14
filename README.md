@@ -8,7 +8,7 @@ When processing information, storing long, repeating strings requires a signific
 code.py: this file contains the Python script demonstrating the compression logic.
 
 ## How the Code Works
-The script utilizes a dictionary acting as a compression key. It takes a list of standard text data (such as academic majors) and uses a list comprehension to replace the text with corresponding integers. 
+The script utilizes a dictionary acting as a compression key. It takes a list of standard text data such as academic majors and uses a list comprehension to replace the text with corresponding integers. 
 ## Output:
 1. The original list of uncompressed text strings.
 2. The final compressed list of integers.
