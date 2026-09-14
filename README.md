@@ -1,5 +1,5 @@
 # IS362_Assingment2
-## hel
+# hel
 # Data Compression 
 ## Project Overview
 This repos contains my Week 2 assignment focusing on data structures and introductory data management techniques. 
